@@ -1,0 +1,8 @@
+{
+ "name":"Teshe", 
+ "billingAddress":"123 centeral ave", 
+ "billingCity":"Charlotte", 
+ "bilingState":"NC",
+ "bilingPostalCode":"12345",
+ "billingCountry":"USA" 
+ }
